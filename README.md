@@ -30,7 +30,8 @@ If a fork emerges that operationalizes these commitments—and recognizes the of
 |David Celis|-|[davidcel.is](https://davidcel.is/about)|
 |Derek Houck|-|[derekhouck.com](https://derekhouck.com)|
 |Dmitry L Rocha|-|[@yetanother.place/@dmitry](https://yetanother.place/@dmitry)|
-|Eric Schultz|-|[@wwahammy.com](https://wwahammy.com)
+|Eric Schultz|-|[@wwahammy.com](https://wwahammy.com)|
+|Eugen Rochko|-|[@Gargron@mastodon.social](https://mastodon.social/@Gargron)|
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
 |Giles Bowkett|-|[@gilesb@gmail.com](https://gilesbowkett.com)|
 |fell sunderland|-|[hello@fellsunder.land](https://www.fellsunder.land)|
