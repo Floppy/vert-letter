@@ -1,15 +1,11 @@
 # Plan Vert
 ## An open letter to the Rails Core team and Ruby community
 
-David Heinemeier Hansson (DHH) has publicly published writings that make clear he holds [racist](https://web.archive.org/web/20250920182553/http://world.hey.com/dhh/as-i-remember-london-e7d38e64) and [transphobic](https://web.archive.org/web/20250920061926/https://world.hey.com/dhh/gender-and-sexuality-alliances-in-primary-school-at-cis-97f66c06) views, as well as a number of other traits [undesirable](https://tomstu.art/the-dhh-problem) in any figurehead and community leader.
+We think DHH is bad. We want our own Rails. That's ok - because DHH has graciously made the whole thing open source. So we can just do it. No permission needed. You gotta respect the guy for that at least.
 
-We, the undersigned, call upon the Rails Core team and the wider Ruby community, to:
+So - we're really honestly, definitely going to hit that fork button on Github. We need a new name. How about "Off the Rails" ??
 
-1. cut ties with DHH and his work from this point forward
-2. hard fork Rails and associated projects to a new name and development free from his influence
-3. adopt a modern Code of Conduct with suitable community governance
-
-If a forked Rails project can meet these criteria, we pledge to support and cheerlead it to the best of our ability, and will make efforts to change our Rails code to use it at the earliest opportunity.
+Less chat - more action. We're definitely going to do it. Really. Soon. We promise. That's the beauty of open source. We don't need any drama, we can just hit the fork button. It's right there on GitHub. We're definitely going to do it. Soon. Honest. We think we'll do a better job, and we can let reality be the judge. Look out for our new better "Off the Rails" ! Not vapourware - we can make this happen. We have the skills, the community, the backing. Honest.
 
 <!-- Please add your name in alphabetical order! -->
 |Name|Project/Affiliation|Contact|
