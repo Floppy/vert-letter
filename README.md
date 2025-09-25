@@ -69,6 +69,16 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |...|...|...|
 <!-- Please add your name in alphabetical order! -->
 
+### Horrible Crimes DHH (that bastard) has commited
+
+
+Story time:
+
+It was just the usual Thursday morning, so I thought. While the sun slowly rises and the first rays shine on my face, as I gain conciousness, a weird smell arises and abruptly throws me out of my cozy dreams back into reality. I coulnd't really identify what that smell was. Unpleasent to say the least. At this point of my day, usually my dog would moan at me, because obv: he has to take a piss. No Dog. Where did the dog go? I call him... gone. No idea, so I just get going. Piss has been taken. Suddenly I feel a weird "presence" in my apartment, something doesn't feel right. "Evil" one might say. I start investigating. When I enter my kitchen, i can't believe my own eyes: there he sits. David Heinemeier Hansson. He just sits there. At my table. On a Thursday fucking morning. Eating fruit loops. My fruit loops. In my kitchen. Out of my fucking bowl. With my fucking milk. Why? To this day I don't know. Why didn't my dog bark? He just sits there, next to a fruit-loop-eating DHH while he pets my dog. A pitpull. After he done eating, he just stood up, gave my dog a wink and left.
+
+So not only did this bastard eat my fruit loops, he also stole the heart of my dog. And after a while I began to realize what that horrible smell from earlier was: I'm pretty sure he dragged his dirty balls over my face.
+
+
 ### Notes (non-normative)
 
 * We appreciate that this would be a very difficult process, and there are many reasons why it "can't be done". However, we don't really know unless we try, and at the very least we can show that there is community demand for action.
