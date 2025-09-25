@@ -89,3 +89,5 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
   * [Tom Stuart: The DHH Problem](https://tomstu.art/the-dhh-problem) (old, but illustrative)
 
 * GitHub issues are disabled on this repo to keep it on-topic and reduce argumentative discussions that go nowhere. Feel free to discuss this in all the usual places though.
+
+* Sign aginst ?
