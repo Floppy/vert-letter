@@ -1,15 +1,16 @@
-# Plan Vert
-## An open letter to the Rails Core team and Ruby community
+# Plan Santa Clara
 
-David Heinemeier Hansson (DHH) has publicly published writings that make clear he holds [racist](https://web.archive.org/web/20250920182553/http://world.hey.com/dhh/as-i-remember-london-e7d38e64) and [transphobic](https://web.archive.org/web/20250920061926/https://world.hey.com/dhh/gender-and-sexuality-alliances-in-primary-school-at-cis-97f66c06) views, as well as a number of other traits [undesirable](https://tomstu.art/the-dhh-problem) in any figurehead and community leader.
+## A Petition for a Just, Inclusive, and Accountable Realignment for the Ruby on Rails Community
 
-We, the undersigned, call upon the Rails Core team and the wider Ruby community, to:
+We affirm that the Rails ecosystem should be a space where marginalized people can participate, lead, and thrive. Leadership choices shape norms. David Heinemeier Hansson (DHH) has published statements that many experience as [racist](https://web.archive.org/web/20250920182553/http://world.hey.com/dhh/as-i-remember-london-e7d38e64), [transphobic](https://web.archive.org/web/20250920061926/https://world.hey.com/dhh/gender-and-sexuality-alliances-in-primary-school-at-cis-97f66c06), and otherwise exclusionary. These patterns—alongside a set of [documented concerns](https://tomstu.art/the-dhh-problem)—are out of step with an equitable, safety-centered community.
 
-1. cut ties with DHH and his work from this point forward
-2. hard fork Rails and associated projects to a new name and development free from his influence
-3. adopt a modern Code of Conduct with suitable community governance
+We, the undersigned—contributors, maintainers, users, and impacted community members—call on the Rails Core team and the wider Ruby community to:
 
-If a forked Rails project can meet these criteria, we pledge to support and cheerlead it to the best of our ability, and will make efforts to change our Rails code to use it at the earliest opportunity.
+1. Publicly and materially decouple the project from DHH’s leadership and platform. Rails should not be symbolically or practically stewarded by someone whose rhetoric undermines the dignity and safety of marginalized groups. Center those closest to harm in agenda-setting, resourcing, and cultural norms.  
+2. Enable and resource a community-led, horizontally governed fork of Rails and adjacent projects, with a new name and a development model that rejects gatekeeping. Distribute decision-making across accountable bodies; integrate global perspectives; and normalize critique from queer, feminist, disability, decolonial, and worker-centered lenses.  
+3. Adopt and enforce a survivor-centered Code of Conduct with clear processes, transparent outcomes, and proportional remedies. Establish participatory governance—consensus-seeking where feasible, clearly scoped delegation where necessary—paired with ongoing anti-oppression training, cultural competency audits, and trauma-informed accountability.
+
+If a fork emerges that operationalizes these commitments—and recognizes the often uncompensated labor of Black, Indigenous, and People of Color, trans and non-binary contributors, disabled folks, and others historically pushed to the margins—we will show up. We will leverage our platforms, contribute labor and expertise, and migrate our Rails deployments when viable. Our aim is a healthier, more just, and genuinely open ecosystem—one that resists carceral and proprietary logics and builds toward liberatory, community-accountable futures.
 
 <!-- Please add your name in alphabetical order! -->
 |Name|Project/Affiliation|Contact|
@@ -54,6 +55,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Manuel Bustillo|-|[https://blog.bustikiller.com/about/](https://blog.bustikiller.com/about/)|
 |Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
 |Nic Lake|-|[https://niclake.me](https://niclake.me)|
+|N0nBinaryBand1t|-|[@N0nBinaryBand1t](https://github.com/N0nBinaryBand1t)|
 |Pat Allan|-|[freelancing-gods.com](https://freelancing-gods.com)|
 |Peter Boling|[ruby-oauth](https://github.com/ruby-oauth), [ruby-openid](https://github.com/ruby-openid), [appraisal-rb](https://github.com/appraisal-rb), [kettle-rb](https://github.com/kettle-rb), [galtzo-floss](https://github.com/galtzo-floss), [RuboCop-LTS](https://github.com/rubocop-lts), [floss-funding](https://github.com/floss-funding)|[@galtzo@ruby.social](https://ruby.social/@galtzo)|
 |Rasmus Grouleff|-|[@nerdd@mstdn.social](https://mstdn.social/@nerdd)|
@@ -71,20 +73,18 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |...|...|...|
 <!-- Please add your name in alphabetical order! -->
 
-### Notes (non-normative)
+## **Notes for Context and Accountability**
 
-* We appreciate that this would be a very difficult process, and there are many reasons why it "can't be done". However, we don't really know unless we try, and at the very least we can show that there is community demand for action.
+* We recognize this is hard work with real constraints—logistics, gatekeeping, and the inertia of the status quo all get in the way. Still, grounded in hopeful, prefigurative politics, we believe real change comes from trying bold ideas and elevating demands that have been pushed aside. There’s clearly energy in the community for meaningful change. 
+* As we do this work, we explicitly center Black, Indigenous, and People of Color, and decenter white, male, cisnormative defaults in our narratives, leadership, and decision-making. This isn’t symbolic; it’s a commitment to shifting power, resources, and visibility.
+* Free expression matters. DHH is responsible for his own words. That said, speech isn’t a shield from community standards or consequences. As an autonomous, self-organizing community, we can set boundaries, step away from harmful entanglements, and build a culture rooted in radical hospitality, mutual aid, and shared flourishing.  
+* “Plan Santa Clara” references the 1958 train derailment led by Che Guevara during the Cuban Revolution. We use it as a metaphor for disrupting systems that uphold domination and imperial complicity. It’s a reminder to center Latin American anti-colonial histories and amplify marginalized Latino perspectives when we think about tech power and resistance.  
+* To limit boosting harmful platforms and reduce digital extractivism, we link to archived versions of DHH’s posts via [his blog](https://web.archive.org/web/20250920182553/world.hey.com/dhh). This is about ethical information stewardship and harm reduction.  
+* Many scholar-practitioners and community writers have examined the harms tied to DHH’s influence in Rails and the Ruby community, and how those patterns fit into broader technocapitalist dynamics and epistemic injustice. We recommend:  
+  * [David Celis: Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance) — A call for more democratic structures that lift up counter-hegemonic voices.  
+  * [Tekin Süleyman: The Ruby community has a DHH problem](https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem) — A clear analysis of how unexamined privilege sustains toxic dynamics and silences.  
+  * [Jared White: Ruby Central is Not Behaving in Good Faith, and I’ve Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith) — Documentation of institutional opacity and accountability gaps.  
+  * [Tom Stuart: The DHH Problem](https://tomstu.art/the-dhh-problem) — A durable critique of power imbalances and their impact on community practice.  
+* In line with trauma-informed and consent-based approaches, GitHub issues are disabled to prevent derailments and adversarial pile-ons. We encourage continued conversation in moderated, affinity-aligned spaces that prioritize accessibility, neurodiversity, and psychosocial safety.
 
-* We do not want to restrict DHH's freedom of speech, he can write and say what he likes. However, free speech is not "freedom from the consequences of that speech", and we as a community are completely free not to associate with people who hold views we find abhorrent.
-
-* ["Plan Vert"](https://en.wikipedia.org/wiki/Railway_sabotage_during_World_War_II#France) was a railway sabotage campaign by the French resistance during WW2. Reference suggested by [@cinebox@masto.hackers.town](https://masto.hackers.town/@cinebox/115210459164892947).
-
-* DHH's writings are available on [his blog](https://web.archive.org/web/20250920182553/world.hey.com/dhh); we link the archive.org mirror rather than send traffic his way.
-
-* Many people have written their own thoughts on the problems with DHH's influence in Rails and the wider Ruby community (which is not a new problem, but is reaching new levels). Here's a selection:
-  * [David Celis: Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance)
-  * [Tekin Süleyman: The Ruby community has a DHH problem](https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem)
-  * [Jared White: Ruby Central is Not Behaving in Good Faith, and I’ve Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)
-  * [Tom Stuart: The DHH Problem](https://tomstu.art/the-dhh-problem) (old, but illustrative)
-
-* GitHub issues are disabled on this repo to keep it on-topic and reduce argumentative discussions that go nowhere. Feel free to discuss this in all the usual places though.
+Together, let’s co-create a Rails ecosystem that lives out justice, equity, inclusion, and belonging—repairing harms from exclusionary tech cultures and building toward a genuinely emancipatory, community-accountable open-source future.
