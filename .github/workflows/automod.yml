@@ -1,0 +1,49 @@
+name: Auto-Close PRs With >1 Line Changed
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  close_large_pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check PR line changes and close/lock if >1 line
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const pr = context.payload.pull_request;
+            const prNumber = pr.number;
+            const { data } = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber
+            });
+
+            const totalChanges = data.additions + data.deletions;
+            if (totalChanges > 1) {
+              // Close the PR
+              await github.rest.pulls.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: prNumber,
+                state: "closed"
+              });
+
+              // Lock the PR
+              await github.rest.issues.lock({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: prNumber,
+                lock_reason: "resolved"
+              });
+
+              // Optionally, leave a comment
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: prNumber,
+                body: "This pull request was automatically closed and locked because it modifies more than 1 line. Please submit PRs with only a single line change."
+              });
+            }
