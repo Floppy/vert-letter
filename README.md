@@ -72,6 +72,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Juanjo Salvador|-|[@jsalvador@mastodon.social](https://mastodon.social/@jsalvador)|
 |Kate Donaldson|-|[@katelovescode](https://github.com/katelovescode)|
 |Dr Kim Foale|[Geeks for Social Change](https://gfsc.community/)|[kim@social.gfsc.studio](https://social.gfsc.studio/@kim)
+|Lea Rosema|-|[@lea@lea.lgbt](https://lea.lgbt/@lea)|
 |Liam Arbuckle |-|[TheMrScrooby](https://twitter.com/TheMrScrooby)|
 |Lloyd Watkin|-|https://www.evilprofessor.co.uk
 |Lucas Dohmen|[The Rails 6/7/8 Way books](https://leanpub.com/therails8way)|[@moonglum@social.yakshed.org](https://social.yakshed.org/@moonglum)|
