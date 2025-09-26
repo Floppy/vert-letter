@@ -18,6 +18,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Aaron Allen|-|[https://aaronmallen.me](https://aaronmallen.me)|
 |Aaron Sumner|-|[@ruralocity@mastodon.social](https://mastodon.social/@ruralocity)|
 |Adrian McEwen|[MCQN Ltd](https://mcqn.com)|[@amcewen@mastodon.me.uk](https://mastodon.me.uk/@amcewen)|
+|Aji Slater|-|[@doodling.dev](https://bsky.app/profile/doodling.dev)|
 |Alexander Gräfe|[-](https://rickenharp.dev)|[@rickrickenharp.bsky.social](https://bsky.app/profile/rickrickenharp.bsky.social)|
 |Andreas Haller|-|[@ahx](https://ruby.social/@ahx)|
 |Andrew France|-|[@odaeus@social.vivaldi.net](https://social.vivaldi.net/@Odaeus)|
@@ -76,6 +77,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
 |Michael Schulze|[Brain Gourmets GmbH](https://www.braingourmets.com/)|[@michsch@chaos.social](https://chaos.social/@michsch)|
 |Mike Subelsky|-[https://www.subelsky.com]
+|Mina Slater|-|[@minaslater](https://github.com/minaslater)|
 |Nic Lake|-|[https://niclake.me](https://niclake.me)|
 |Oliver Klee|[Brain Gourmets GmbH](https://www.braingourmets.com/)|[@oliklee@chaos.social](https://chaos.social/@oliklee)|
 |Omar Luqman|[stimulus-store](https://github.com/omarluq/stimulus-store)|[@omarluq.bsky.social](https://bsky.app/profile/omarluq.bsky.social)|
