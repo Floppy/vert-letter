@@ -1,2 +1,2 @@
-# Plan Bart
-The french were ALWAYS malicious...
+# Plan Vert
+## An open letter to the Rails Core team and Ruby community
