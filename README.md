@@ -8,8 +8,8 @@
 
 ## 2. The Rule
 
-    1. First of all, love the Lord God with your whole heart, your whole soul, and your whole strength.
-    2. Then, love your neighbor as yourself.
+1. First of all, love the Lord God with your whole heart, your whole soul, and your whole strength.
+2. Then, love your neighbor as yourself.
     3. Do not murder.
     4. Do not commit adultery.
     5. Do not steal.
