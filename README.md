@@ -2,9 +2,9 @@
 
 1. Purpose
 
-The "instruments of good works" from chapter 4 of The Rule of St. Benedict (hereafter: "The Rule") has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
+    The "instruments of good works" from chapter 4 of The Rule of St. Benedict (hereafter: "The Rule") has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
 
-No one is required to follow The Rule, to know The Rule, or even to think that The Rule is a good idea. Individuals are free to dispute or ignore that advice if they wish.
+    No one is required to follow The Rule, to know The Rule, or even to think that The Rule is a good idea. Individuals are free to dispute or ignore that advice if they wish.
 
 2. The Rule
 
