@@ -67,6 +67,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |John-Paul Teti|-|[@jpteti@mastodon.social](https://mastodon.social/@jpteti)|
 |Jon Wood|-|[@jon@blankpad.net](https://activitypub.blankpad.net/@jon@blankpad.net/)|
 |Jonathon Anderson|-|[@anderson_jon@hachyderm.io](https://hachyderm.io/@anderson_jon)|
+|Kate Donaldson|-|[@katelovescode](https://github.com/katelovescode)|
 |Dr Kim Foale|[Geeks for Social Change](https://gfsc.community/)|[kim@social.gfsc.studio](https://social.gfsc.studio/@kim)
 |Liam Arbuckle |-|[TheMrScrooby](https://twitter.com/TheMrScrooby)|
 |Lloyd Watkin|-|https://www.evilprofessor.co.uk
