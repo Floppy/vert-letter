@@ -115,6 +115,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Tim Bray|-|[@timbray@cosocial.ca](https://cosocial.ca/@timbray)|
 |Tim Cowlishaw|-|[timcowlishaw.co.uk](https://www.timcowlishaw.co.uk)|
 |Tom Marvolo Riddle|-|[@tom@cybre.space](https://mstdn.social/@tom@cybre.space)|
+|Torsten Schönebaum|-|[@tosch@gruene.social](https://gruene.social/@tosch)|
 |Udo Gröbner|-|[@udl](https://github.com/udl)|
 |Vito Sartori|-|[vito.io](https://vito.io)|
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
