@@ -30,6 +30,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Can Olcer|-|[@can@mstdn.social](https://mstdn.social/@can)|
 |Cédric Delalande|[Barley Serializer](https://github.com/MoskitoHero/barley)|[@MoskitoHero@ruby.social](https://ruby.social/@MoskitoHero)|
 |Chloe Arciniega|-|[sapphic.moe](https://sapphic.moe)|
+|Chris Finazzo|-|[@chrisfinazzo](https://chrisfinazzo.com)|
 |Chuck Lauer Vose|-|[@vosechu@ruby.social](@vosechu@ruby.social)|
 |Corey Farwell|-|[rwell.org](https://rwell.org/)|
 |Damien Mathieu|Former Rails Issues Team (2012-2014)|[dmathieu](https://github.com/dmathieu), [dmathieu.com](https://dmathieu.com)|
