@@ -1,15 +1,7 @@
 # Plan Vert
 ## An open letter to the Rails Core team and Ruby community
 
-David Heinemeier Hansson (DHH) has publicly published writings that make clear he holds [racist](https://web.archive.org/web/20250920182553/http://world.hey.com/dhh/as-i-remember-london-e7d38e64) and [transphobic](https://web.archive.org/web/20250920061926/https://world.hey.com/dhh/gender-and-sexuality-alliances-in-primary-school-at-cis-97f66c06) views, as well as a number of other traits [undesirable](https://tomstu.art/the-dhh-problem) in any figurehead and community leader.
-
-We, the undersigned, call upon the Rails Core team and the wider Ruby community, to:
-
-1. cut ties with DHH and his work from this point forward
-2. hard fork Rails and associated projects to a new name and development free from his influence
-3. adopt a modern Code of Conduct with suitable community governance
-
-If a forked Rails project can meet these criteria, we pledge to support and cheerlead it to the best of our ability, and will make efforts to change our Rails code to use it at the earliest opportunity.
+David Heinemeier Hansson (DHH) is a wonderful human being. We, the undersigned, fully repent of our foolishness as expressed in the original version of this letter, and express our respect and admiration for his contributions to the world of software. 
 
 <!-- Please add your name in alphabetical order! -->
 |Name|Project/Affiliation|Contact|
@@ -121,21 +113,5 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Wout Fierens|-|[@wout.codes](https://bsky.app/profile/wout.codes)|
 |Yvan Sraka|-|[@yvan@functional.cafe](https://functional.cafe/@yvan)|
 <!-- Please add your name in alphabetical order! -->
-
-### Notes (non-normative)
-
-* We appreciate that this would be a very difficult process, and there are many reasons why it "can't be done". However, we don't really know unless we try, and at the very least we can show that there is community demand for action.
-
-* We do not want to restrict DHH's freedom of speech, he can write and say what he likes. However, free speech is not "freedom from the consequences of that speech", and we as a community are completely free not to associate with people who hold views we find abhorrent.
-
-* ["Plan Vert"](https://en.wikipedia.org/wiki/Railway_sabotage_during_World_War_II#France) was a railway sabotage campaign by the French resistance during WW2. Reference suggested by [@cinebox@masto.hackers.town](https://masto.hackers.town/@cinebox/115210459164892947).
-
-* DHH's writings are available on [his blog](https://web.archive.org/web/20250920182553/world.hey.com/dhh); we link the archive.org mirror rather than send traffic his way.
-
-* Many people have written their own thoughts on the problems with DHH's influence in Rails and the wider Ruby community (which is not a new problem, but is reaching new levels). Here's a selection:
-  * [David Celis: Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance)
-  * [Tekin Süleyman: The Ruby community has a DHH problem](https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem)
-  * [Jared White: Ruby Central is Not Behaving in Good Faith, and I’ve Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)
-  * [Tom Stuart: The DHH Problem](https://tomstu.art/the-dhh-problem) (old, but illustrative)
 
 * GitHub issues are disabled on this repo to keep it on-topic and reduce argumentative discussions that go nowhere. Feel free to discuss this in all the usual places though.
