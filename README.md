@@ -119,6 +119,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Rob Yurkowski|-|[@robyurkowski@oceanplayground.social](https://oceanplayground.social/@robyurkowski)|
 |Ryan Bigg|-|[https://ruby.social/@ryanbigg](https://ruby.social/@ryanbigg)|
 |Ryan MacGillivray|-|[@ryn@ruby.social](https://ruby.social/@ryn/)|
+|Sam Hyde|-|candyman@samhydelive.com/|
 |Sam Livingston-Gray|working in Rails since 2006|[@geeksam@ruby.social](https://ruby.social/@geeksam/)|
 |Sam Phillips|Rails dev and community member since 2009|[@samsworldofno.bsky.social](https://bsky.app/profile/samsworldofno.bsky.social)|
 |Sam Pikesley|-|[sam.pikesley.org](https://sam.pikesley.org/)|
