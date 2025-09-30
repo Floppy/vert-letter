@@ -1,5 +1,7 @@
 name: Auto-Close PRs With >1 Line Changed
-
+permissions:
+  pull-requests: write
+  issues: write
 on:
   pull_request:
     types: [opened, synchronize, reopened]
