@@ -77,7 +77,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jason Garber|[Not to be confused with the other Jason Garber 👆](https://github.com/Plan-Vert/open-letter/pull/112)|[jasongarber.com](https://jasongarber.com)|
 |Javier Cervantes|-|[jvrc.ca](https://www.jvrc.ca)|
 |Jay Caines-Gooby|-|[jay.gooby.org](https://jay.gooby.org)|
-|Jeff Atwood|[discourse.org](https://discourse.org), [Stack Overflow](https://stackoverflow.com/questions), [2008 blog re: DHH](https://blog.codinghorror.com/douchebaggery/)|jatwood@codinghorror.com|
+|Jeff Atwood| co-founder [discourse.org](https://discourse.org), co-founder [Stack Overflow](https://stackoverflow.com/questions), [2008 blog re: DHH](https://blog.codinghorror.com/douchebaggery/)|jatwood@codinghorror.com|
 |Jens-Christian Fischer|[Professionelle Webentwicklung mit Ruby on Rails 2 (Book)](https://www.amazon.com/Professionelle-Webentwicklung-mit-Ruby-Rails/dp/3826616839)|[@jcfischer@swiss.social](https://swiss.social/@jcfischer)|
 |Jérémy Lecour|-|[jeremy.lecour.fr](https://jeremy.lecour.fr/)|
 |Jesse Brooklyn Hannah|-|[jbhannah.net](https://jbhannah.net)|
